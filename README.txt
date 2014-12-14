@@ -1,5 +1,5 @@
 ====
-grin
+grin :)
 ====
 
 I wrote grin to help me search directories full of source code. The venerable
